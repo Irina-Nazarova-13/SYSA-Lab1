@@ -66,7 +66,7 @@ if sum_of_digits % 10 == 0:
 
 # Output Section
 
-# if teh card is valid:
+# if the card is valid:
 if valid_card:
     # display the message of validity
     print("********The card is valid********")
